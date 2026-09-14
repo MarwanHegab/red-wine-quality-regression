@@ -1,6 +1,6 @@
 # Alcohol Content and Red Wine Quality: A Simple Linear Regression Model
 
-Team project for Math 456 (Mathematical Modeling). We use simple linear
+We use simple linear
 regression to model red wine quality as a function of alcohol content, using
 the UCI Machine Learning Repository's [Wine Quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 (red wine subset, n = 1,599).
