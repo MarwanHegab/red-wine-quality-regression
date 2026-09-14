@@ -29,7 +29,7 @@ full discussion, diagnostics, and limitations.
   description, analysis, model evaluation, conclusion, references).
 - [`analysis.R`](analysis.R) — R code for the full analysis, from data loading
   through diagnostics, influential-point removal, test-set evaluation, and prediction.
-- [`data/winequality-red.csv`](data/winequality-red.csv) — the dataset (semicolon-delimited).
+- [`data/winequality-red.csv`](data/winequality-red.csv) — the dataset.
 
 ## Reproducing the analysis
 
